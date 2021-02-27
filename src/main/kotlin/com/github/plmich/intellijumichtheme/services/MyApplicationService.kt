@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.plmich.intellijumichtheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.plmich.intellijumichtheme.MyBundle
 
 class MyApplicationService {
 
