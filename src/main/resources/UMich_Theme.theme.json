@@ -1,0 +1,74 @@
+{
+  "name": "UMich Theme",
+  "dark": true,
+  "author": "Peijing Li",
+  "editorScheme": "/CLion Color Scheme.xml",
+  "ui": {
+    "*": {
+      "background": "#323232"
+    },
+    "Borders": {
+      "color": "#323232",
+      "ContrastBorderColor": "#323232"
+    },
+    "EditorTabs": {
+      "selectedBackground": "#00274c",
+      "underlinedTabBackground": "#1d1d1d",
+      "selectedForeground": "#ffcb05",
+      "inactiveMaskColor": "#2c2c2c",
+      "inactiveColoredFileBackground": "#2c2c2c",
+      "underlineHeight": 0,
+      "borderColor": "#323232"
+    },
+    "Panel" : {
+      "foreground": "#acacac",
+      "background": "#323232"
+    },
+    "Tree": {
+      "background": "#242425",
+      "foreground": "#c7c7c7",
+      "selectionBackground": "#00274c",
+      "selectionForeground": "#ffcb05"
+    },
+    "Menu": {
+      "background": "#00274c",
+      "foreground": "#cbcbc2",
+      "borderColor": "#141414",
+      "separatorColor": "#606060"
+    },
+    "PopupMenuSeparator": {
+      "height": 13,
+      "stripeIndent": 6,
+      "stripeWidth": 1
+    },
+    "MenuBar": {
+      "borderColor": "#323232"
+    },
+    "MenuItem": {
+      "background": "#00274c",
+      "foreground": "#cbcbc2",
+      "selectionBackground": "#094770",
+      "selectionForeground": "#ffcb05"
+    },
+    "NavBar": {
+      "borderColor": "#323232"
+    },
+    "CompletionPopup": {
+      "background": "#242425",
+      "foreground": "#cecece"
+    },
+    "Button": {
+      "arc": 2
+    },
+    "StatusBar": {
+      "borderColor": "#323232"
+    },
+    "ToolWindow": {
+      "Header": {
+        "borderColor": "#323232",
+        "background": "#323232",
+        "inactiveBackground": "#323232"
+      }
+    }
+  }
+}

@@ -10,6 +10,7 @@
     <extensions defaultExtensionNs="com.intellij">
         <applicationService serviceImplementation="com.github.plmich.intellijumichtheme.services.MyApplicationService"/>
         <projectService serviceImplementation="com.github.plmich.intellijumichtheme.services.MyProjectService"/>
+        <themeProvider id="006f46cb-76b0-4e7b-a470-1091cc076a56" path="/UMich_Theme.theme.json"/>
     </extensions>
 
     <applicationListeners>
